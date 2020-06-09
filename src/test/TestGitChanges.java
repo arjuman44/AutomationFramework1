@@ -7,6 +7,6 @@ public class TestGitChanges {
 	@Test
 	public void newchanges()
 	{
-		System.out.println("Git Changes");
+		System.out.println("Git Changes new");
 	}
 }
